@@ -289,7 +289,7 @@ hist(data, breaks=50, main="5025211014_Alexander Weynard Samsico_Probstat_A_DNhi
 
 ## 6c. Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
 
-Untuk menghitung niali varian hasil generate random, dapat menggunakan var(data)
+Untuk menghitung nilai varian hasil generate random, dapat menggunakan var(data)
 ```
 set.seed(1)
 n = 100
