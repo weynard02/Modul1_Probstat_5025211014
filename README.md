@@ -10,7 +10,7 @@ p = 0.20
 ans = dgeom(x,p)
 print(ans)
 ```
-![image](https://user-images.githubusercontent.com/90879937/195242189-4792dfd7-cf74-4bb9-9400-65fa23118cb5.png)
+![image](https://user-images.githubusercontent.com/90879937/195244024-45e18a3f-ea75-47f0-b4f0-7ab9097bbd03.png)
 
 1b
 dengan data random n = 10000
