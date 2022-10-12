@@ -135,7 +135,7 @@ hist(rpois(n,lambda), main="histogram kelahiran 6 bayi", xlab = "angka kelahiran
 ```
 print("hasil yang diberikan di 3b kurang lebih sama dengan di 3a jadi selama 1 tahun bisa dikatakan peluang 6 bayi konsisten meskipun tidak sama.")
 ```
-![image](https://user-images.githubusercontent.com/90879937/195304154-6077dcf4-3551-4c5e-9f4c-7781943de996.png)
+![image](https://user-images.githubusercontent.com/90879937/195312380-fda64951-b6c3-4f1e-a9e4-b906e3b9a054.png)
 
 ### 3d. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
 
