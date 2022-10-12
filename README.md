@@ -91,7 +91,7 @@ p = 0.2
 dataframe = data.frame(0:10, dbinom(0:10, n, prob))
 ggplot(dataframe, aes(x = factor(0:10), y = dbinom(0:10, n, prob)))+ geom_bar(stat="identity")+ labs(title="Histogram", x = "x", y = "peluang")
 ```
-![image](https://user-images.githubusercontent.com/90879937/195247158-a3c34114-e532-48a5-9244-7e35669d651a.png)
+![image](https://user-images.githubusercontent.com/90879937/195305419-da99c43a-74db-474a-a660-937e7ca16a02.png)
 
 ### 2c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Binomial.
 
