@@ -222,7 +222,7 @@ hist(rexp(10000, lambda))
 ```
 ![image](https://user-images.githubusercontent.com/90879937/195309006-649c1cbf-0b48-484c-a8ff-8475f8248092.png)
 
-### 5c Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+### 5c. Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
 
 Menggunakan fungsi mean dan var
 ```
