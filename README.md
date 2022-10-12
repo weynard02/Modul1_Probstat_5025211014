@@ -24,7 +24,7 @@ prob = 0.20
 ans = mean(rgeom(n, prob)==3)
 print(ans)
 ```
-
+![image](https://user-images.githubusercontent.com/90879937/195243969-e6804887-b5e4-44a8-816b-e25f9a43fde4.png)
 
 1c
 perbandingan poin a dan b adalah bahwa rataan dari rgeom (b) itu mendekati dengan nilai dgeom(a). 
